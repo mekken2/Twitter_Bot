@@ -3,6 +3,8 @@ import time
 
 print("This is a twitter bot developed by Priyanshu Kumar",flush=True)
 
+#Keys are supposed to be confidential
+#For test purpose you can use your own keys by cloning the repo
 CONSUMER_KEY = 'YOUR_KEY'
 CONSUMER_SECRET = 'YOUR_KEY'
 ACCESS_KEY = 'YOUR_KEY'
